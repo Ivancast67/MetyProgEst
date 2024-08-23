@@ -1,17 +1,21 @@
 ﻿using System;
 
-namespace Saludo
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] arg )
-        {
-            // ingrese nombre //
-            Console.Write(" ingrese  nombre: ");
-            string nombre = Console.ReadLine();
+        int numEntero, Cociente, Residuo;
+        Console.Write("\nDigite un número entero: ");
+        numEntero = int.Parse(Console.ReadLine());
+        Cociente = numEntero / 2;
+        Residuo = numEntero - (Cociente * 2);
 
-            // Saludo al usuario
-            Console.WriteLine("¡Hola, " + nombre + "! Bienvenido/a.");
+        if (Residuo == 0)
+        {
+            Console.WriteLine("El número es par");
         }
+
+        Console.WriteLine("Presione cualquier tecla para continuar...");
+        Console.ReadKey();
     }
 }
