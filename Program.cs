@@ -2,20 +2,19 @@
 
 class Program
 {
+    static int a, b;
+
     static void Main()
     {
-        int numEntero, Cociente, Residuo;
-        Console.Write("\nDigite un número entero: ");
-        numEntero = int.Parse(Console.ReadLine());
-        Cociente = numEntero / 2;
-        Residuo = numEntero - (Cociente * 2);
+        Console.Write("Ingrese el primer entero: ");
+        a = int.Parse(Console.ReadLine());
+        Console.Write("Ingrese el segundo entero: ");
+        b = int.Parse(Console.ReadLine());
+        fsuma();
+    }
 
-        if (Residuo == 0)
-        {
-            Console.WriteLine("El número es par");
-        }
-
-        Console.WriteLine("Presione cualquier tecla para continuar...");
-        Console.ReadKey();
+    static void fsuma()
+    {
+        Console.WriteLine("La suma es igual = " + (a + b));
     }
 }
