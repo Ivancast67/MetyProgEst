@@ -1,0 +1,14 @@
+C:\Users\labc205\Desktop\entradas\Entradasejemplos\bin\Debug\Entradasejemplos.exe.config
+C:\Users\labc205\Desktop\entradas\Entradasejemplos\bin\Debug\Entradasejemplos.exe
+C:\Users\labc205\Desktop\entradas\Entradasejemplos\bin\Debug\Entradasejemplos.pdb
+C:\Users\labc205\Desktop\entradas\Entradasejemplos\bin\Debug\MetroFramework.Design.dll
+C:\Users\labc205\Desktop\entradas\Entradasejemplos\bin\Debug\MetroFramework.dll
+C:\Users\labc205\Desktop\entradas\Entradasejemplos\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\labc205\Desktop\entradas\Entradasejemplos\obj\Debug\Entradasejemplos.csproj.AssemblyReference.cache
+C:\Users\labc205\Desktop\entradas\Entradasejemplos\obj\Debug\Entradasejemplos.Properties.Resources.resources
+C:\Users\labc205\Desktop\entradas\Entradasejemplos\obj\Debug\Entradasejemplos.csproj.GenerateResource.cache
+C:\Users\labc205\Desktop\entradas\Entradasejemplos\obj\Debug\Entradasejemplos.csproj.CoreCompileInputs.cache
+C:\Users\labc205\Desktop\entradas\Entradasejemplos\obj\Debug\Entradas.00E61507.Up2Date
+C:\Users\labc205\Desktop\entradas\Entradasejemplos\obj\Debug\Entradasejemplos.exe
+C:\Users\labc205\Desktop\entradas\Entradasejemplos\obj\Debug\Entradasejemplos.pdb
+C:\Users\labc205\Desktop\entradas\Entradasejemplos\obj\Debug\Entradasejemplos.Form1.resources
